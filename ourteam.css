@@ -94,13 +94,13 @@ footer{
 
     /*cards*/
     .row{
-        margin-right: 100px;
+        margin-right: auto;
+        text-align: center;
     }
     .card{
-         display: flex;
-        align-self: center;
-        justify-self: center;
+        display: inline-block;
         width:350px;
+        margin-botton: 20px;
     }
 
     /*footer*/
