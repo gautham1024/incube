@@ -98,9 +98,8 @@ footer{
         text-align: center;
     }
     .card{
-        display: inline-block;
+        margin-left:35px;
         width:350px;
-        margin-botton: 20px;
     }
 
     /*footer*/
