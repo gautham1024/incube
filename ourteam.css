@@ -97,7 +97,9 @@ footer{
         margin-right: 100px;
     }
     .card{
-        margin-right: 5%;
+         display: flex;
+        align-self: center;
+        justify-self: center;
         width:350px;
     }
 
